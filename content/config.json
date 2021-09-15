@@ -1,0 +1,44 @@
+{
+  "blog_name": "Phanton",
+  "blog_title": "This is Phantom, a free, fully responsive site template designed byHTML5 UP",
+  "blog_subtitle": "This is an POC blog that I created to checkout Nuxt and Nuxt Content modules as well as Nuxt's SSG features, blogs posts were just copyed from other blogs.",
+  "copyright": "© Untitled. All rights reserved",
+  "credits": "Design: HTML5 UP",
+  "social_medias": [
+    {
+      "icon": "brands fa-twitter",
+      "label": "Twitter",
+      "url": "#"
+    },
+    {
+      "icon": "brands fa-facebook-f",
+      "label": "Facebook",
+      "url": "#"
+    },
+    {
+      "icon": "brands fa-instagram",
+      "label": "Instagram",
+      "url": "#"
+    },
+    {
+      "icon": "brands fa-dribbble",
+      "label": "Dribbble",
+      "url": "#"
+    },
+    {
+      "icon": "brands fa-github",
+      "label": "GitHub",
+      "url": "#"
+    },
+    {
+      "icon": "brands fa-500px",
+      "label": "500px",
+      "url": "#"
+    },
+    {
+      "icon": "fa-envelope",
+      "label": "Email",
+      "url": "#"
+    }
+  ]
+}
